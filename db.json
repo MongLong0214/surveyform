@@ -1,0 +1,24 @@
+{
+  "questionnaires": [
+    {
+      "id": "2d78a664-8552-4742-bcb1-765257c32685",
+      "title": "ㅋㅋㅇㅇ",
+      "date": "2023. 5. 27.",
+      "questions": [
+        {
+          "id": 0,
+          "title": "ㅋㅇㅇㅇ",
+          "required": true,
+          "type": "단문형 답변",
+          "answerOptions": [
+            {
+              "id": "a7c6a04b-2273-4a5e-9b17-d04d0f61f531",
+              "text": "",
+              "isChecked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
